@@ -4,7 +4,7 @@
 #### Abstract
 Input Convex Neural Networks (ICNNs) serve a variety of purposes, such as data inputting, structured prediction, reinforcement learning. The main quality of such networks is that some of their weight matrices contain only non-negative weights. The idea behind this project is to use Non-negative Matrix Factorization (NNMF) to compress ICNNs. The performance of the resulting network is tested on multi-label classification and face image completion tasks, as well as on toy examples.
 
-### Structure of the repository:
+## Structure of the repository:
 
   "Toy_examples" - testing ICNN performance on Toy Examples
   
@@ -14,7 +14,7 @@ Input Convex Neural Networks (ICNNs) serve a variety of purposes, such as data i
   
   "NNMF_with_ICNN" - using NNMF with ICNN for all tasks
 
-## Setup and Dependencies
+## Setup and Dependencies:
 
 + Python/numpy
 + TensorFlow (we used r10)
