@@ -13,3 +13,8 @@ Input Convex Neural Networks (ICNNs) serve a variety of purposes, such as data i
   "Face_completion" - using ICNN for face image completion task
   
   "NNMF_with_ICNN" - using NNMF with ICNN for all tasks
+
+## Setup and Dependencies
+
++ Python/numpy
++ TensorFlow (we used r10)
