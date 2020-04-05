@@ -18,3 +18,10 @@ Input Convex Neural Networks (ICNNs) serve a variety of purposes, such as data i
 
 + Python/numpy
 + Pytorch (we used 1.4.0)
+
+## Image Completion
+
+This image shows the test set completions on the Olivetti faces dataset over
+the 1000 epochs.
+
+![](/images/completion.gif)
