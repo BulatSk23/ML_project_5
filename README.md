@@ -17,4 +17,4 @@ Input Convex Neural Networks (ICNNs) serve a variety of purposes, such as data i
 ## Setup and Dependencies:
 
 + Python/numpy
-+ TensorFlow (we used r10)
++ Pytorch (we used 1.4.0)
